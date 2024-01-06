@@ -1,0 +1,1 @@
+The project focuses on creating a Convolutional Neural Network (CNN) model for the classification of images into two categories: cats and dogs. This task is a classic image classification problem that leverages deep learning techniques to automatically learn and differentiate between the two classes
